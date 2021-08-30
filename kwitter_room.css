@@ -1,0 +1,19 @@
+body{
+    background-image: url(BgImage.jpg);
+}
+#logout{
+    color:darkblue;
+    font-size: x-large;
+}
+#room_name{
+    background-color:darkgreen;
+    text-align: center;
+    font-size: 28px;
+}
+#add_room{
+    color:darkblue;
+    font-size: x-large;   
+}
+#text{
+    color:gold
+}

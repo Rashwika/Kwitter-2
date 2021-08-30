@@ -1,0 +1,12 @@
+body{
+    background-image: url(BgImage.jpg);
+}
+#name{
+    background-color: crimson;
+    text-align: center;
+    font-size: 28px;
+}
+#login{
+    color:darkblue;
+    font-size:x-large;
+}
